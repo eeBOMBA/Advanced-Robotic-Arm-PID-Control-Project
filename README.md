@@ -27,7 +27,6 @@ To design a modular robotic arm capable of accurate motion and real-time feedbac
 ---
 
 **Control Overview**
-![System Diagram](images/wiring_layout.png)
 
 The PID controller continuously adjusts motor signals based on encoder feedback to maintain target joint angles with minimal overshoot and steady-state error.
 
@@ -47,10 +46,8 @@ You can view them directly in GitHub or download them for 3D printing.
 
 ---
 
-**Gallery**
-| Assembly | Electronics | Testing |
-|-----------|-------------|---------|
-| ![Arm](images/arm_photo1.jpg) | ![PCB](images/wiring_layout.png) | ![Testing](images/oscilloscope_feedback.png) |
+**Images**
+Displays all videos and pictures of progress on robot
 
 ---
 
